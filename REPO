@@ -1,0 +1,6 @@
+ubuntu-diary-app/
+├── diary.sh          # Main script
+├── README.md         # Documentation
+├── install.sh        # Optional installer
+├── samples/          # Example entries
+└── screenshots/      # Demo images  
